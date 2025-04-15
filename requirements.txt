@@ -1,0 +1,13 @@
+streamlit – for the web-based UI.
+
+opencv-python – for image processing (resizing, color conversion, thresholding).
+
+numpy – for numerical operations.
+
+Pillow – for image file handling (used with Image.open()).
+
+matplotlib – for plotting the histogram.
+
+PyWavelets – for DWT and IDWT operations.
+
+tensorflow – to load the pre-trained VGG19 CNN model and extract features.
